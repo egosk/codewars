@@ -11,6 +11,7 @@
 # format_duration(62)    # returns "1 minute and 2 seconds"
 # format_duration(3662)  # returns "1 hour, 1 minute and 2 seconds"
 
+
 def format_duration(seconds):
     if seconds ==0:
         return "now"
@@ -40,7 +41,6 @@ def format_duration(seconds):
         elif val >= 1:
             formulas.append(str(val) + ' ' + key)
 
-
     for f in formulas:
         if formulas.index(f) == 0:
             formula = f
@@ -48,7 +48,7 @@ def format_duration(seconds):
             formula = f + ' and ' + formula
         if formulas.index(f) > 1:
             formula = f + ', ' + formula
-
     return formula
+
 
 format_duration(31536005)
