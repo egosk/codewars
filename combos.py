@@ -28,4 +28,4 @@ def combos(n):
 
 
 
-print(combos(3))
+print(combos(5))
