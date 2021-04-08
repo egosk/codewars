@@ -30,8 +30,6 @@ def sum_min_path(pyramid):
 
     sum_on_shortest_path = rvd_pyramid[-1][0]
     path = find_path(pyramid, prev_pyramid)
-    print(pyramid)
-    print(prev_pyramid)
     path = [str(i) for i in path]
     path = ''.join(path)
     return sum_on_shortest_path, path
