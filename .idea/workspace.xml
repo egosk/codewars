@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9a5fe03-903b-4a48-bbec-e34b4c15ab86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fizz_buzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel_destination.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +117,7 @@
       <recent name="C:\Users\emila\Desktop\codewars\ML - Iris flower - Scikit" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fizz_buzz">
+  <component name="RunManager" selected="Python.travel_destination">
     <configuration name="Iris flower - ML - Visualization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,7 +206,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="print directory contents" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="travel_destination" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,7 +219,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print directory contents.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/travel_destination.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,19 +229,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.print directory contents" />
       <item itemvalue="Python.piramida_daftcode" />
       <item itemvalue="Python.Iris flower - ML - basic exercises" />
       <item itemvalue="Python.Iris flower - ML - Visualization" />
       <item itemvalue="Python.fizz_buzz" />
+      <item itemvalue="Python.travel_destination" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.travel_destination" />
         <item itemvalue="Python.fizz_buzz" />
         <item itemvalue="Python.Iris flower - ML - Visualization" />
         <item itemvalue="Python.Iris flower - ML - basic exercises" />
         <item itemvalue="Python.piramida_daftcode" />
-        <item itemvalue="Python.print directory contents" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +265,9 @@
       <workItem from="1617875846367" duration="1972000" />
       <workItem from="1617878764172" duration="423000" />
       <workItem from="1617887643164" duration="918000" />
-      <workItem from="1617957695344" duration="2492000" />
+      <workItem from="1617957695344" duration="3077000" />
+      <workItem from="1618218446491" duration="847000" />
+      <workItem from="1618219994860" duration="1823000" />
     </task>
     <servers />
   </component>
@@ -336,7 +338,8 @@
     <SUITE FILE_PATH="coverage/codewars$permutations.coverage" NAME="permutations Coverage Results" MODIFIED="1616152713112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Iris_flower___ML___basic_exercises_py$Iris_flower___ML___basic_exercises.coverage" NAME="Iris flower - ML - basic exercises Coverage Results" MODIFIED="1617888311050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML - Iris flower - Scikit" />
     <SUITE FILE_PATH="coverage/codewars$Iris_flower___ML.coverage" NAME="Iris flower - ML - basic exercises Coverage Results" MODIFIED="1617875805682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML - Iris flower - Scikit" />
-    <SUITE FILE_PATH="coverage/Iris_flower___ML___basic_exercises_py$fizz_buzz.coverage" NAME="fizz_buzz Coverage Results" MODIFIED="1617962192953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Iris_flower___ML___basic_exercises_py$fizz_buzz.coverage" NAME="fizz_buzz Coverage Results" MODIFIED="1618219276346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Iris_flower___ML___basic_exercises_py$travel_destination.coverage" NAME="travel_destination Coverage Results" MODIFIED="1618220034996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$print_directory_contents.coverage" NAME="print directory contents Coverage Results" MODIFIED="1616756511888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/codewars$piramida_daftcode.coverage" NAME="piramida_daftcode Coverage Results" MODIFIED="1617105404017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Iris_flower___ML___basic_exercises_py$Iris_flower___ML___Visualization.coverage" NAME="Iris flower - ML - Visualization Coverage Results" MODIFIED="1617960988459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML - Iris flower - Scikit" />
